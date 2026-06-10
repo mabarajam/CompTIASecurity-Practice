@@ -16,7 +16,7 @@ https://mabarajam.github.io/CompTIASecurity-Practice/
 
 - Practice questions organized by SY0-701 parts.
 - Focused question blocks for shorter study sessions.
-- Single-answer and multiple-answer question support.
+- Single answer and multiple answer question support.
 - Instant grading for the current block.
 - Show or hide correct answers while reviewing.
 - Light and dark theme toggle.
@@ -75,7 +75,3 @@ GitHub will publish the page after a short build process.
 ## Notes
 
 This project is intended as a personal study tool for Security+ practice. CompTIA and Security+ are trademarks of CompTIA. This project is not affiliated with or endorsed by CompTIA.
-
-## Copyright
-
-Copyright 2026 Mario. All rights reserved.
