@@ -6,7 +6,7 @@ A lightweight HTML practice app for studying CompTIA Security+ SY0-701 questions
 
 ## Live Demo
 
-After GitHub Pages is enabled, the project will be available at:
+The project is available at:
 
 ```text
 https://mabarajam.github.io/CompTIASecurity-Practice/
@@ -46,20 +46,8 @@ Use **Show answers** when you want to study the correct responses directly. Use 
 ## How to Use Locally
 
 Download or clone the repository, then open `index.html` in your browser.
-
 No installation, build tools, or server setup are required.
 
-## Deploying With GitHub Pages
-
-1. Upload `index.html`, `README.md`, and the `assets` folder to the repository.
-2. Open the repository on GitHub.
-3. Go to **Settings**.
-4. Select **Pages** from the left menu.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select the `main` branch and `/root` folder.
-7. Click **Save**.
-
-GitHub will publish the page after a short build process.
 
 ## Project Structure
 
